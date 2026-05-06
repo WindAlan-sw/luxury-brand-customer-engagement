@@ -15,6 +15,25 @@ The repository provides de-texted public metric datasets and notebooks that allo
 
 Raw X/Twitter text, user handles, URLs, and other row-level user-identifying fields are not redistributed.
 
+## Who may find this repository useful?
+
+### Researchers
+
+This repository may be useful for researchers studying:
+
+- social media customer engagement;
+- brand-generated content;
+- luxury branding;
+- entropy-based measurement;
+- multi-criteria decision-making methods in marketing analytics;
+- sentiment analysis and brand benchmarking.
+
+### Practitioners
+
+The workflow can also support practitioners who want to compare engagement performance across brands, campaigns, or time periods using public interaction metrics such as replies, reposts, likes, and quotes.
+
+
+## How to use this repo
 ### Option 1: use GitHub/Colab
 Open `notebooks/01_Check_Published_Results.ipynb` and run all cells.
 [![Open score results notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/01_Check_Published_Results.ipynb)
