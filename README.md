@@ -6,15 +6,15 @@ This repository is a public companion for the published article:
 
 The repository is designed for readers who want to quickly check the empirical results and apply a similar framework to their own data.
 
-## Quick start
-
-[![Open results notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/01_Check_Published_Results.ipynb)
-
-[![Open framework notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/05_Apply_Framework_To_Your_Data.ipynb)
-
 ### Option 1: use GitHub/Colab
-
 Open `notebooks/01_Check_Published_Results.ipynb` and run all cells.
+[![Open score results notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/01_Check_Published_Results.ipynb)
+
+Open `notebooks/02_Reproduce_Public_Metric_Analysis.ipynb` and run all cells.
+[![Open analysis notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/02_Reproduce_Public_Metric_Analysis.ipynb)
+
+Open `notebooks/05_Apply_Framework_To_Your_Data.ipynb` and run all cells.
+[![Open framework notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/05_Apply_Framework_To_Your_Data.ipynb)
 
 ### Option 2: run locally
 
