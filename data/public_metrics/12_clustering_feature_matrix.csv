@@ -1,0 +1,7 @@
+brand,mean_CE_score,CE_level,mean_sentiment_score,source_note
+Armani,22.730583646732427,-210.0108,0.13741577358490567,Mean CE and sentiment are derived from public metrics; CE_level follows the published/notebook clustering feature values.
+Burberry,25.664744249230772,-160.0156,0.125493279658232,Mean CE and sentiment are derived from public metrics; CE_level follows the published/notebook clustering feature values.
+Chanel,33.831012940095555,95.5087,0.1377127836611195,Mean CE and sentiment are derived from public metrics; CE_level follows the published/notebook clustering feature values.
+Dior,31.043554692307694,577.4266,0.16700219378427789,Mean CE and sentiment are derived from public metrics; CE_level follows the published/notebook clustering feature values.
+Gucci,31.398206826715914,-256.1554,0.14588570330514988,Mean CE and sentiment are derived from public metrics; CE_level follows the published/notebook clustering feature values.
+LV,33.54776970769231,177.6877,0.1503248467782011,Mean CE and sentiment are derived from public metrics; CE_level follows the published/notebook clustering feature values.

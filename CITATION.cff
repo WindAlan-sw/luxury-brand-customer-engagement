@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Measuring Social Media Customer Engagement with Luxury Brands"
+message: "If you use this repository, please cite the associated Journal of Brand Management article."
+authors:
+  - family-names: Xiao
+    given-names: Siwei
+  - family-names: Chen
+    given-names: Xiaoyu
+contact:
+  - email: xiaosiwei1006@gmail.com
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xiao
+      given-names: Siwei
+    - family-names: Chen
+      given-names: Xiaoyu
+  title: "Measuring social media customer engagement with brands based on information entropy: an application case of luxury brand"
+  journal: "Journal of Brand Management"
+  volume: 32
+  start: 184
+  end: 202
+  year: 2025
+  doi: 10.1057/s41262-024-00376-7
