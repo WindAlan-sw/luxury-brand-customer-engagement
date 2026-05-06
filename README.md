@@ -13,7 +13,7 @@ The repository provides de-texted public metric datasets and notebooks that allo
 5. customer sentiment summaries;
 6. hierarchical clustering of luxury brands.
 
-The original comprehensive research framewrok is shown in below:
+The original comprehensive research framework is shown in below:
 <img width="535" height="721" alt="Screenshot 2025-06-23 at 14 53 58" src="https://github.com/user-attachments/assets/6d38a1e7-db4e-42da-ae25-5b79b597ab48" />
 Note: i.e., Figure 2 in (Xiao & Chen, 2025)
 
