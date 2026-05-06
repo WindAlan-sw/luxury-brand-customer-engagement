@@ -1,5 +1,6 @@
 # Measuring Social Media Customer Engagement with Luxury Brands
 [![DOI](https://zenodo.org/badge/1231009527.svg)](https://doi.org/10.5281/zenodo.20059587)
+
 This repository is a public companion for the published article:
 
 > Xiao, S., & Chen, X. (2025). *Measuring social media customer engagement with brands based on information entropy: an application case of luxury brand*. Journal of Brand Management, 32, 184–202. https://doi.org/10.1057/s41262-024-00376-7
