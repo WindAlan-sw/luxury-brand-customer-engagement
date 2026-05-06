@@ -4,7 +4,16 @@ This repository is a public companion for the published article:
 
 > Xiao, S., & Chen, X. (2025). *Measuring social media customer engagement with brands based on information entropy: an application case of luxury brand*. Journal of Brand Management, 32, 184–202. https://doi.org/10.1057/s41262-024-00376-7
 
-The repository is designed for readers who want to quickly check the empirical results and apply a similar framework to their own data.
+The repository provides de-texted public metric datasets and notebooks that allow readers to inspect and reproduce the main public-metric analysis workflow:
+
+1. post-level brand engagement measurement;
+2. entropy-based customer engagement score construction;
+3. comparison with alternative MCDM weighting methods;
+4. fixed-effect modelling using EITC dimensions;
+5. customer sentiment summaries;
+6. hierarchical clustering of luxury brands.
+
+Raw X/Twitter text, user handles, URLs, and other row-level user-identifying fields are not redistributed.
 
 ### Option 1: use GitHub/Colab
 Open `notebooks/01_Check_Published_Results.ipynb` and run all cells.
