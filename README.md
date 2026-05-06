@@ -80,6 +80,16 @@ Key files:
 
 The repository does **not** include raw X/Twitter post text, cleaned text, user handles, display names, post URLs, mentions, hashtags, or original row-level customer records.
 
+| Paper output                       | Public repo file/notebook                                                        | Publicly reproducible? | Notes                                       |
+| ---------------------------------- | -------------------------------------------------------------------------------- | ---------------------: | ------------------------------------------- |
+| Fig. 2 CE score histogram          | `01_brand_post_metrics_detexted.csv`; notebook 01                                |                    Yes | Recreated from de-texted post-level metrics |
+| Fig. 3 CE score boxplot            | `01_brand_post_metrics_detexted.csv`; notebook 01                                |                    Yes | Text not needed                             |
+| Fig. 4 weighting comparison        | `04_entropy_weight_input.csv`, `06_scoring_method_post_results.csv`; notebook 02 |                    Yes | Recreated from public metrics               |
+| Table 7 updated fixed-effect model | `11_fixed_effects_model_panel.csv`; notebook 02                                  |                    Yes | Based on de-texted brand-month panel        |
+| Table 8 sentiment results          | `09_sentiment_month_summary.csv`; notebook 01/02                                 |                 Partly | Public aggregate sentiment only             |
+| Fig. 6 clustering dendrogram       | `12_clustering_feature_matrix.csv`; notebook 02                                  |                    Yes | Recreated from public metrics               |
+| Raw tweet examples in appendix     | Not included                                                                     |                     No | Raw text intentionally excluded             |
+
 See `docs/RESTRICTED_DATA_NOTE.md` for details.
 
 ## Contact
