@@ -49,6 +49,10 @@ Open `notebooks/02_Reproduce_Public_Metric_Analysis.ipynb` and run all cells.
 Open `notebooks/05_Apply_Framework_To_Your_Data.ipynb` and run all cells.
 [![Open framework notebook in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WindAlan-sw/luxury-brand-customer-engagement/blob/main/notebooks/05_Apply_Framework_To_Your_Data.ipynb)
 
+#### v1.1.0 update
+
+`notebooks/05_Apply_Framework_To_Your_Data.ipynb` has been expanded into a fuller reusable framework notebook. It now demonstrates post-level entropy-based CE scoring, brand-period aggregation, fixed-effect style regression, simulated UGC sentiment analysis, and hierarchical clustering.
+
 ### Option 2: run locally
 
 ```bash
